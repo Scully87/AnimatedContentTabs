@@ -5,7 +5,7 @@ AnimatedContentTabs
 
 ####Link to site [AnimatedContentTabs](https://animatedcontenttabs.herokuapp.com/)
 
-![AnimatedContentTabs](img url)
+![AnimatedContentTabs1](https://s3.amazonaws.com/uploads.hipchat.com/119067/1211609/obQGfHzSzv2mSZg/AnimatedContentTabs1small.png)![AnimatedContentTabs2](https://s3.amazonaws.com/uploads.hipchat.com/119067/1211609/urhZcBVeE7udCdz/AnimatedContentTabs2small.png)
 
 #####Technolgies Used:
 
