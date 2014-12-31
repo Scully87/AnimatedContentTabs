@@ -16,6 +16,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rack
   sinatra
   sinatra-partial

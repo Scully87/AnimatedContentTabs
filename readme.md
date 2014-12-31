@@ -1,34 +1,14 @@
-Simple Website Template
+AnimatedContentTabs
 ========================
 
-####A simple file structure created to produce a quick sinatra application for site hosting. 
+####Content tabs are a very common and familiar element in web design, and often their turn out to be pretty useful. 
 
-#####Template includes:
+####Link to site [AnimatedContentTabs](http://)
 
+![AnimatedContentTabs](img url)
+
+#####Technolgies Used:
+
+	- HTML5
+	- CSS3
 	- Sinatra
-	- Partials
-	- ERB
-	- CSS/Normalize
-	- JQuery
-
-How to Use:
-------------
-
-Clone the Repository:
-```shell
-$ git clone https://github.com/Scully87/Sinatra-Template.git
-```
-
-Open the Directory:
-```shell
-$ cd Sinatra-Template
-```
-Install the files:
-```shell
-$ bundle install
-```
-
-Open from terminal:
-```shell
-$ rackup
-```
