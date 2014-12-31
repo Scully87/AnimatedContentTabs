@@ -78,3 +78,8 @@
     height: 2px;
     display: block;
 }
+
+.tabs input:checked + label {
+    background: #fff;
+    z-index: 6;
+}
